@@ -21,7 +21,7 @@ let orientationListening = false;
 
 const REDIRECT_URL = "https://www.thebelgiantouch.com";
 const EXIT_THRESHOLD = 48;
-const GRAVITY_SCALE = 1200;
+const GRAVITY_SCALE = 2400;
 const MAX_TILT = 45;
 const FRICTION = 0.98;
 const MAX_DT = 0.05;
